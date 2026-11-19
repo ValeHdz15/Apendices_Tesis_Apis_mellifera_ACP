@@ -21,9 +21,8 @@ Apéndices del trabajo de grado: Predicción in silico de péptidos con potencia
 | O | Resultados de PLIP |
 | P | Resultados de xDeep-AcPEP para los cinco candidatos finales |
 
-## Material complementario
-
-- **Mucina:** Resultados de la interacción de cada uno de los candidatos finales con la mucina, obtenidos mediante HPEPDOCK 2.0.
-
 ## Formatos
 Los archivos están en Excel, Word, PDF, TXT y cuadernos de Google Colab (.ipynb). Algunos apéndices están organizados en carpetas con varios archivos.
+
+## Licencia
+GNU General Public License v3.0
